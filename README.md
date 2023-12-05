@@ -1,4 +1,4 @@
-## Next.js App Router Course - Starter
+## Next.js Dashboard - NextJS 14, TypeSCript, PostgreSQL
 
 This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
 
